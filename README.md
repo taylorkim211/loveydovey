@@ -1,7 +1,6 @@
-<!doctype html>
+
 <html>
 <head>
-  <title>Welcome to Taylor's Page</title>
   <meta charset="utf-8">
 </head>
 <body>
